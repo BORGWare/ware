@@ -1,1 +1,6 @@
-WARE
+<title>WARE</title
+
+<version>1.0</version>
+
+<ch1>true</ch1>
+<ch2>false</ch2>
